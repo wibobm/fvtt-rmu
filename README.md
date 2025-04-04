@@ -2,7 +2,7 @@
 
 ## Rules
 * Be kind
-* Be as clear you can
+* Be as clear as you can
 
 
 Together, we'll make this amazing.
