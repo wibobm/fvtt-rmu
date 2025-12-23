@@ -5,6 +5,3 @@
 * Be as clear as you can
 
 
-Together, we'll make this amazing.
-
-Thank you for you work!
