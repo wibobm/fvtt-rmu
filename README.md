@@ -8,3 +8,4 @@ https://github.com/wibobm/fvtt-rmu/wiki
 * Be as clear as you can
 
 
+thank you!
